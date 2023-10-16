@@ -1,7 +1,7 @@
-namespace wacton;
+namespace wacton.NewNamespace;
 
-public class Test 
+public class MyClass
 {
+    public string MyProperty {get; set; }
 
-    
 }
